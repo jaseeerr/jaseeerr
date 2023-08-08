@@ -1,16 +1,21 @@
-### Hi there 👋
+💫 About Me:
+🤝 I’m looking for a new role Software Engineer
+👨‍💻 All of my projects are available at https://github.com/jaseeerr
+⚡ Fun fact I love learning new tech
 
-<!--
-**jaseeerr/jaseeerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ CSS3 HTML5 Java JavaScript Python AWS Cloudflare Chart.js Bootstrap Express.js NPM JWT NodeJS Redux React Router React Socket.io Nginx MongoDB MySQL Postgres Figma LINUX Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
