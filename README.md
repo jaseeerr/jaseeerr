@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for a new role Software Engineer<br>👨‍💻 All of my projects are available at https://github.com/jaseeerr<br>⚡ Fun fact I love learning new tech
+🤝 I’m looking for a new role as Software Engineer<br>👨‍💻 All of my projects are available at https://github.com/jaseeerr<br>⚡ Fun fact I love learning new tech
 
 
 ## 🌐 Socials:
